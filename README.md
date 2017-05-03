@@ -4,5 +4,5 @@ This repo contains examples of Ridge Regression and SVM. The first two Notebooks
 Note: All Notebooks are in German only.
 
 * Ridge Regression: [Notebook about Ridge Regression](https://nbviewer.jupyter.org/github/dominikgrimm/ridge_and_svm/blob/master/RidgeRegression.ipynb)
-* SVM: [Notebook about SVM](https://github.com/dominikgrimm/ridge_and_svm/blob/master/SVM.ipynb)
+* SVM: [Notebook about SVM](https://nbviewer.jupyter.org/github/dominikgrimm/ridge_and_svm/blob/master/SVM.ipynb)
 * Toy Example: [Ridge Regression vs. SVM](https://nbviewer.jupyter.org/github/dominikgrimm/ridge_and_svm/blob/master/Anwendungsbeispiel.ipynb)
